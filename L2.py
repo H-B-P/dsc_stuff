@@ -5,7 +5,7 @@ random.seed(0)
 
 ROWS = 1000
 
-CITY= "Detroit"
+CITY= "Baltimore"
 
 print("Top Speed, Age, Security Rating, Efficiency Rating, Price")
 for i in range(ROWS):
